@@ -1,5 +1,6 @@
 body {
-  background-color: darkblue;
+  background-size: auto;
+  background-image: url("dragonimg.png");
 }
 
 #text {
@@ -10,8 +11,7 @@ body {
 
 #game {
   max-width: 500px;
-  max-height: 400px;
-  background-color: lightgray;
+  max-height: 1000px;
   color: white;
   margin: 0 auto;
   padding: 10px;
